@@ -55,12 +55,18 @@ h6 span{
 
 #sec-imagen{
 	background-image: url(../img/Franja.png);
+	padding: 20px;
+	background-size: cover;
 }
 #sec-franja{
 	background-image: url(../img/Franja.png);
+	padding: 20px;
+	background-size: cover;
 }
 #sec-pixel{
 	background-image: url(../img/Franja.png);
+	padding: 20px;
+	background-size: cover;
 }
 #sec-footer{
 	background-color: #FFFFFF;
@@ -110,4 +116,20 @@ h4{
 }
 a{
 	text-decoration: none;
+}
+p span{
+
+	color: #000000;
+
+}
+
+
+h6 span{
+	text-align: center;
+	font-weight: 600;
+	color: #000000
+}
+
+.carousel{
+	box-decoration-break: none;
 }
