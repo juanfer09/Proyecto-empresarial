@@ -9,7 +9,7 @@ body p{
 }
 
 
-footer{
+#sec-arriba{
 	font-family: Helvetica;
 	font-size: 11px;
 	color: #000000;
@@ -70,6 +70,7 @@ h6 span{
 }
 #sec-footer{
 	background-color: #FFFFFF;
+	padding-top: 10px;
 }
 
 
