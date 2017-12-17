@@ -9,13 +9,17 @@ body p{
 }
 
 
-#sec-arriba{
+footer{
 	font-family: Helvetica;
 	font-size: 11px;
 	color: #000000;
-	background-color: #ECECEC;
 	border-top: solid 1px #ddd;
 	padding: 20px 0px;
+	background-color: #ECECEC;
+}
+footer #sec-arriba{
+	background-color: #ECECEC;
+	margin-top: 0px;
 }
 
 #sec-services h6{
@@ -61,6 +65,7 @@ h6 span{
 #sec-franja{
 	background-image: url(../img/Franja.png);
 	padding: 20px;
+	margin-top: 20px;
 	background-size: cover;
 }
 #sec-pixel{
@@ -70,7 +75,6 @@ h6 span{
 }
 #sec-footer{
 	background-color: #FFFFFF;
-	padding-top: 10px;
 }
 
 
@@ -134,3 +138,79 @@ h6 span{
 .carousel{
 	box-decoration-break: none;
 }
+h3{
+	color:#C0C0C0;
+	}
+	
+#destacados{
+	color:#005287;
+		}
+		
+destacadoss img{
+	padding-bottom:50px;
+	margin-bottom: 10px;
+}
+
+#imagen{
+	
+	padding-top:20px;
+	}
+	
+#app img{
+	align-content:center;
+	display:block;
+	margin:auto;
+	width:3%;
+	
+	
+	}
+
+#hero{	
+	background-image: url(../img/gestiondelainnovacion_principal.jpg);
+	background-position: bottom center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: rgba(255,255,255,1.00);
+	padding: 150px 0px 300px;
+	position: relative;
+	margin-top: 10px;
+}
+
+#hero h1{
+	font-size: 50px;
+	padding-bottom: 30px;
+	background: none;
+	color: #FFFFFF;
+	 
+}
+#hero p{
+	color: #FFFFFF;
+}
+
+.info{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	background-color:rgba(0,0,0,0.70);
+	color: #FFFFFF;
+	padding: 20px 0px;
+	border-top: 1px solid #333;
+	}
+
+.fondo{
+	marging-top:20px;
+    background: #50bebe;
+    background: -moz-linear-gradient(left,#50bebe 0,#41aaaa 50%,#0099cb 100%);
+    background: -webkit-linear-gradient(left,#50bebe 0,#41aaaa 50%,#0099cb 100%);
+    background: linear-gradient(to right,#50bebe 0,#41aaaa 50%,#0099cb 100%);
+}
+#cuadro{
+	marging-top: 20px;
+    background: #50bebe;
+    background: -moz-linear-gradient(left,#50bebe 0,#41aaaa 50%,#0099cb 100%);
+    background: -webkit-linear-gradient(left,#50bebe 0,#41aaaa 50%,#0099cb 100%);
+    background: linear-gradient(to right,#50bebe 0,#41aaaa 50%,#0099cb 100%);
+	
+}
+
